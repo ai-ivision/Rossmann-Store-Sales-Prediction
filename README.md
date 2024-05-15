@@ -29,8 +29,7 @@ The developed machine learning model achieves accurate daily sales forecasts for
 Integration of external data sources such as weather data, economic indicators, and demographic information to enhance the accuracy of sales forecasts.
 Implementation of advanced forecasting techniques such as ensemble methods, deep learning models, or hybrid approaches to further improve predictive performance.
 Deployment of the trained model into production systems for real-time sales forecasting and decision support at Rossmann stores.
-- Contributors
-[ai-vision][https://github.com/ai-ivision] 
+
 ### License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for your own purposes. Contributions are welcome!
 
